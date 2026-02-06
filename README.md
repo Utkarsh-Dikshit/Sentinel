@@ -34,7 +34,7 @@ Sentinel/
 ### 2. Setup
 1.  **Clone:**
     ```bash
-    git clone [https://github.com/Utkarsh-Dikshit/Sentinel.git](https://github.com/Utkarsh-Dikshit/Sentinel.git)
+    git clone https://github.com/Utkarsh-Dikshit/Sentinel.git
     ```
 2.  **Link OpenCV:** Open `Sentinel.sln`. Right-click Project → **Properties**:
     * **Include Dir:** Point to `opencv\build\include`
