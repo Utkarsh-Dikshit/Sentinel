@@ -24,7 +24,7 @@ Sentinel/
 ├── SentinelSystem.h    # Header: Interface and Member declarations
 ├── SentinelSystem.cpp  # Source: Implementation of Threading & Vision Logic
 └── main.cpp            # Entry Point: Instantiates the System
-
+```
 ## 🔧 Build & Run
 
 ### 1. Prerequisites
@@ -39,7 +39,7 @@ Sentinel/
 2.  **Link OpenCV:** Open `Sentinel.sln`. Right-click Project → **Properties**:
     * **Include Dir:** Point to `opencv\build\include`
     * **Library Dir:** Point to `opencv\build\x64\vc16\lib`
-    * **Input:** Add `opencv_world4xx.lib`
+    * **Input:** Add `opencv_world4120.lib`
 
 ### 3. Execution
 1.  **Build:** Set to **x64** (Debug or Release) and press **Ctrl+Shift+B**.
