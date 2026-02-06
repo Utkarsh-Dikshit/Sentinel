@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Sentinel/Sentinel.vcxproj" Id="24260bdc-4e45-40fa-99b3-115036eb2e71" />
+</Solution>

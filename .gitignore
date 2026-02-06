@@ -1,0 +1,25 @@
+# --- Visual Studio Junk ---
+.vs/
+x64/
+x86/
+Debug/
+Release/
+*.user
+*.pdb
+*.idb
+*.ipch
+*.obj
+*.ilk
+
+# --- Executables ---
+*.exe
+*.dll
+
+# --- Sentinel Evidence Files ---
+# We do NOT want to upload your recorded security videos
+*.avi
+*.mp4
+
+# --- Windows System Files ---
+Thumbs.db
+Desktop.ini
